@@ -1,0 +1,18 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "mariadb-ai-system-container",
+            "port": 3306,
+            "driver": "MariaDB",
+            "name": "AI_system",
+            "database": "AI_system",
+            "password": "DongAI21",
+            "username": "root"
+        }
+    ]
+}
